@@ -1,10 +1,10 @@
 var family = [{
-    "name" : "Jason",
+    "name" : "data from backend 1",
     "age" : "24",
     "gender" : "male"
 },
 {
-    "name" : "Kyle",
+    "name" : "data from backend 2",
     "age" : "21",
     "gender" : "male"
 }];
